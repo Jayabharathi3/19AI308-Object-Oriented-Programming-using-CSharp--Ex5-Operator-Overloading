@@ -24,7 +24,7 @@ Check the equality.
 ```
 DEVELOPED BY : JAYABHARATHI S
 REGISTER NO : 212222100013
-``
+```
 ```c#
 using System;
 
@@ -84,5 +84,7 @@ class Program
 }
 ```
 # OUTPUT:
+![](./exp5%20C#.png)
+
 # RESULT:
 Thus,the program to illustrate operating overloading is successfully implemented.
