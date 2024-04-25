@@ -84,7 +84,7 @@ class Program
 }
 ```
 # OUTPUT:
-![](./exp5%20C#.png)
+![](./out.png)
 
 # RESULT:
 Thus,the program to illustrate operating overloading is successfully implemented.
